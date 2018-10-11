@@ -21,7 +21,7 @@ In addition to citing our paper, we kindly request that the following text be in
 
 ## **Installing the SAIVT-BuildingMonitoring Database**
 Download and unzip the following archive:
-- [Database (11 GB)](https://data.researchdatafinder.qut.edu.au/dataset/063a99ed-a2b7-49c7-b900-1936c8c2a715/resource/b03c57eb-ad39-432d-b91b-a35b00fa0ba8/download/saivt-virtualgate.tar.gz)
+- [Database (11.8 GB), md5sum: bea0c4e0b7d0c212aaa1639bca5d3fb6](https://data.researchdatafinder.qut.edu.au/dataset/063a99ed-a2b7-49c7-b900-1936c8c2a715/resource/45ffd801-5070-4f88-a065-dba88d94c9ed/download/saivt-virtualgate.tar.gz)
 
 At this point, you should have the following data structure and the SAIVT-BuildingMonitoring database is installed:
 ```
